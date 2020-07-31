@@ -1,0 +1,16 @@
+{
+  "name": "alimike/yii2-airdatepicker",
+  "description": "Datepicker widget for Yii2 (base on Air Datepicker)",
+  "keywords": [
+    "Datepicker",
+    "php",
+    "yii2"
+  ],
+  "type": "yii2-extension",
+  "license": "MIT",
+  "require": {
+    "yiisoft/yii2": "~2.0.0",
+    "npm-asset/moment": "*",
+    "npm-asset/moment-timezone": "*"
+  }
+}
